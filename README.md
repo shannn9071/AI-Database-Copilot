@@ -297,11 +297,17 @@ This project demonstrates practical knowledge of:
 * Database performance monitoring
 
 ---
+## 👨‍💻 Project Team
 
-## 👨‍💻 Author
+This project was collaboratively developed by:
 
-**Shantharaj k **
----
+* **Shantharaj K** — BSc Computer Science
+* **Harshini Ravishankar Gowder** — BSc Computer Science
+
+All three team members contributed to the **design, development, testing, and documentation** of the AI Database Copilot.
+
+This project demonstrates our practical application of **Generative AI, Text-to-SQL, NLP, SQL, database management, and AI application development**.
+
 
 ## 📄 License
 
